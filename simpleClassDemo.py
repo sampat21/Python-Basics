@@ -5,6 +5,7 @@ class Stack:    # defining the Stack class
 stackObject = Stack()    # instantiating the object
 
 
+
 '''
 1. the constructor's name is always __init__;
 2. it has to have at least one parameter (we'll discuss this later); the parameter is used to represent the newly created object - you can use the parameter to manipulate the object, and to enrich it with the needed properties; you'll make use of this soon;
